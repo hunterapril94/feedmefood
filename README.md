@@ -1,6 +1,6 @@
 LHL Node Skeleton
 =========
-![]('finalView.png')
+![](finalView.png)
 
 ## Project Setup
 
